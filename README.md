@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hallo, ich bin Vali! 👋
 
-<!--
-**valii80/valii80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Umschulung zum Fachinformatiker für Anwendungsentwicklung
+Ich mache aktuell eine Umschulung bei der **DEKRA Akademie** und dokumentiere hier meine Lernfortschritte.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech-Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🚀 Meine Projekte
+Hier sind meine wichtigsten Repositories:
+
+* **[C# Übungen](https://github.com/valii80/C-Sharp-Aufgaben)** - (Hier kannst du den Link zu deinem C#-Projekt anpassen)
+* **[Python Projekte](https://github.com/valii80/Python-Kurs)** - (Hier deinen Python-Link einfügen)
+
+---
+
+### 📫 Kontakt
+* **GitHub:** [github.com/valii80](https://github.com/valii80)
+* **Institution:** DEKRA Akademie
