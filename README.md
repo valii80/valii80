@@ -15,8 +15,8 @@ Ich mache aktuell eine Umschulung bei der **DEKRA Akademie** und dokumentiere hi
 ### 🚀 Meine Projekte
 Hier sind meine wichtigsten Repositories:
 
-* **[C# Übungen](https://github.com/valii80/C-Sharp-Aufgaben)** - (Hier kannst du den Link zu deinem C#-Projekt anpassen)
-* **[Python Projekte](https://github.com/valii80/Python-Kurs)** - (Hier deinen Python-Link einfügen)
+* **[C# Übungen](https://github.com/valii80/C-Sharp-Aufgaben)**
+* **[Python Projekte](https://github.com/valii80/Python-Kurs)**
 
 ---
 
