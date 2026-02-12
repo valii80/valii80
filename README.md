@@ -1,7 +1,6 @@
 # Hallo, ich bin Vali! 👋
 
 ### 🎓 Umschulung zum Fachinformatiker für Anwendungsentwicklung
-Ich mache aktuell eine Umschulung bei der **DEKRA Akademie** und dokumentiere hier meine Lernfortschritte.
 
 ---
 
@@ -17,8 +16,6 @@ Ich mache aktuell eine Umschulung bei der **DEKRA Akademie** und dokumentiere hi
 ### 🚀 Meine Projekte
 Hier sind meine wichtigsten Repositories:
 
-* **[C# Übungen](https://github.com/valii80/C-Sharp-Aufgaben)**
-* **[Python Projekte](https://github.com/valii80/Python-Kurs)**
 
 ---
 
